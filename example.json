@@ -1,0 +1,3353 @@
+{
+"factorized": false,
+"offers":
+{
+"LW_20_275":
+{
+"priceInUSD": 19.99,
+"items":
+{
+"chipAmount": 843750,
+"lpAmount": 1000,
+"myVipAmount": 1600
+},
+"bundleAssetToUse": 4,
+
+
+
+
+"promo": false,
+"originalChipAmount": 225000,
+"extraValuePercentage": 275,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249235"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": false,
+"welcomeOffer": true,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 225000,
+"currencyValue": 843750,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "4-Star Sticker Pack (Min 1 of ****)",
+"originalValue": 1,
+"currencyValue": 1,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":1,\"source\":\"loyalty_website\",\"packId\":\"pack50\",\"price\":20.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_4Amount": "1"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 162,
+"currencyValue": 162,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":162,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "162"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_Promo_100_2.9":
+{
+"priceInUSD": 99.99,
+"items":
+{
+"chipAmount": 7800000,
+"lpAmount": 5000,
+"myVipAmount": 8000
+},
+"bundleAssetToUse": 4,
+
+
+
+
+"promo": false,
+"promoOffer" : true,
+"promoDetails" : {
+"promoStartDate" : "2026-05-30T08:01:00.000Z",
+"promoEndDate" : "2026-06-02T08:00:00.000Z",
+"promoImageUrlSm" : "https://loyaltywebdev-a.akamaihd.net/apps/pop_slots/temp/MGM_Special_Promotions_01_100x100.png",
+"promoImageUrlLg" : "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Special_Promotions_450x336.png",
+"capOnPurchases": null,
+
+
+"promoDisplayType": "store"
+
+
+},
+"originalChipAmount": 2000000,
+"extraValuePercentage": 2.9,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+"extraChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1762767984"
+},
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 2000000,
+"currencyValue": 7800000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 1,
+"currencyValue": 1,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":1,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":100.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "1"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 1458,
+"currencyValue": 1458,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":1458,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "1458"
+}
+},
+{
+"isPrimary": false,
+"currencyName": "Mini Spins",
+"originalValue": 2349,
+"currencyValue": 2349,
+"imageUrlSm": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_25x25.png",
+"imageUrlMd": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_100x100.png",
+"imageUrlLg": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":0,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":2349}"
+},
+"clientProperties":
+{
+"MpSpinsAmount": "2349"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_Promo_150_2.95":
+{
+"priceInUSD": 149.99,
+"items":
+{
+"chipAmount": 12913237,
+"lpAmount": 7500,
+"myVipAmount": 12000
+},
+"bundleAssetToUse": 4,
+
+
+
+
+"promo": false,
+"promoOffer" : true,
+"promoDetails" : {
+"promoStartDate" : "2026-05-30T08:01:00.000Z",
+"promoEndDate" : "2026-06-02T08:00:00.000Z",
+"promoImageUrlSm" : "https://loyaltywebdev-a.akamaihd.net/apps/pop_slots/temp/MGM_Special_Promotions_01_100x100.png",
+"promoImageUrlLg" : "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Special_Promotions_450x336.png",
+"capOnPurchases": null,
+
+
+"promoDisplayType": "store"
+
+
+},
+"originalChipAmount": 3269174,
+"extraValuePercentage": 2.95,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+"extraChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1762767984"
+},
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 3269174,
+"currencyValue": 12913237,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 2,
+"currencyValue": 2,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":2,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":150.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "2"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 2268,
+"currencyValue": 2268,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":2268,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "2268"
+}
+},
+{
+"isPrimary": false,
+"currencyName": "Mini Spins",
+"originalValue": 3564,
+"currencyValue": 3564,
+"imageUrlSm": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_25x25.png",
+"imageUrlMd": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_100x100.png",
+"imageUrlLg": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":0,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":3564}"
+},
+"clientProperties":
+{
+"MpSpinsAmount": "3564"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_Promo_200_3":
+{
+"priceInUSD": 199.99,
+"items":
+{
+"chipAmount": 19000000,
+"lpAmount": 10000,
+"myVipAmount": 16000
+},
+"bundleAssetToUse": 4,
+
+
+
+
+"promo": false,
+"promoOffer" : true,
+"promoDetails" : {
+"promoStartDate" : "2026-05-30T08:01:00.000Z",
+"promoEndDate" : "2026-06-02T08:00:00.000Z",
+"promoImageUrlSm" : "https://loyaltywebdev-a.akamaihd.net/apps/pop_slots/temp/MGM_Special_Promotions_01_100x100.png",
+"promoImageUrlLg" : "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Special_Promotions_450x336.png",
+"capOnPurchases": null,
+
+
+"promoDisplayType": "store"
+
+
+},
+"originalChipAmount": 4750000,
+"extraValuePercentage": 3,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+"extraChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1762767984"
+},
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 4750000,
+"currencyValue": 19000000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 3,
+"currencyValue": 3,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":3,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":200.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "3"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 3119,
+"currencyValue": 3119,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":3119,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "3119"
+}
+},
+{
+"isPrimary": false,
+"currencyName": "Mini Spins",
+"originalValue": 4860,
+"currencyValue": 4860,
+"imageUrlSm": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_25x25.png",
+"imageUrlMd": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_100x100.png",
+"imageUrlLg": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":0,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":4860}"
+},
+"clientProperties":
+{
+"MpSpinsAmount": "4860"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_Promo_300_3.05":
+{
+"priceInUSD": 299.99,
+"items":
+{
+"chipAmount": 33412500,
+"lpAmount": 15000,
+"myVipAmount": 24000
+},
+"bundleAssetToUse": 4,
+
+
+
+
+"promo": false,
+"promoOffer" : true,
+"promoDetails" : {
+"promoStartDate" : "2026-05-30T08:01:00.000Z",
+"promoEndDate" : "2026-06-02T08:00:00.000Z",
+"promoImageUrlSm" : "https://loyaltywebdev-a.akamaihd.net/apps/pop_slots/temp/MGM_Special_Promotions_01_100x100.png",
+"promoImageUrlLg" : "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Special_Promotions_450x336.png",
+"capOnPurchases": null,
+
+
+"promoDisplayType": "store"
+
+
+},
+"originalChipAmount": 8250000,
+"extraValuePercentage": 3.05,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+"extraChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1762767984"
+},
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 8250000,
+"currencyValue": 33412500,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 4,
+"currencyValue": 4,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":4,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":300.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "4"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 5022,
+"currencyValue": 5022,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":5022,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "5022"
+}
+},
+{
+"isPrimary": false,
+"currencyName": "Mini Spins",
+"originalValue": 8092,
+"currencyValue": 8092,
+"imageUrlSm": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_25x25.png",
+"imageUrlMd": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_100x100.png",
+"imageUrlLg": "https://playops.akamaized.net/ast/MGM/349/MGM_MiniSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":0,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":8092}"
+},
+"clientProperties":
+{
+"MpSpinsAmount": "8092"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_10_270":
+{
+"priceInUSD": 9.99,
+"items":
+{
+"chipAmount": 305250,
+"lpAmount": 500,
+"myVipAmount": 800
+},
+"bundleAssetToUse": 1,
+
+
+
+
+"promo": false,
+"originalChipAmount": 82500,
+"extraValuePercentage": 270,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1752657149"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 82500,
+"currencyValue": 305250,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "3-Star Sticker Pack (Min 1 of ***)",
+"originalValue": 1,
+"currencyValue": 1,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Purple_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Purple_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Purple_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":1,\"source\":\"loyalty_website\",\"packId\":\"pack10\",\"price\":10.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_3Amount": "1"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 65,
+"currencyValue": 65,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":65,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "65"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_25_270":
+{
+"priceInUSD": 24.99,
+"items":
+{
+"chipAmount": 1096125,
+"lpAmount": 1250,
+"myVipAmount": 2000
+},
+"bundleAssetToUse": 2,
+
+
+
+
+"promo": false,
+"originalChipAmount": 296250,
+"extraValuePercentage": 270,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249235"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 296250,
+"currencyValue": 1096125,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "4-Star Sticker Pack (Min 1 of ****)",
+"originalValue": 1,
+"currencyValue": 1,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":1,\"source\":\"loyalty_website\",\"packId\":\"pack50\",\"price\":25.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_4Amount": "1"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 194,
+"currencyValue": 194,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":194,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "194"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_50_275":
+{
+"priceInUSD": 49.99,
+"items":
+{
+"chipAmount": 3046875,
+"lpAmount": 2500,
+"myVipAmount": 4000
+},
+"bundleAssetToUse": 2,
+
+
+
+
+"promo": false,
+"originalChipAmount": 812500,
+"extraValuePercentage": 275,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249235"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 812500,
+"currencyValue": 3046875,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "4-Star Sticker Pack (Min 1 of ****)",
+"originalValue": 2,
+"currencyValue": 2,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":2,\"source\":\"loyalty_website\",\"packId\":\"pack50\",\"price\":50.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_4Amount": "2"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 432,
+"currencyValue": 432,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":432,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "432"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_75_280":
+{
+"priceInUSD": 74.99,
+"items":
+{
+"chipAmount": 5058750,
+"lpAmount": 3750,
+"myVipAmount": 6000
+},
+"bundleAssetToUse": 2,
+
+
+
+
+"promo": false,
+"originalChipAmount": 1331250,
+"extraValuePercentage": 280,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249235"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 1331250,
+"currencyValue": 5058750,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "4-Star Sticker Pack (Min 1 of ****)",
+"originalValue": 3,
+"currencyValue": 3,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Silver_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":3,\"source\":\"loyalty_website\",\"packId\":\"pack50\",\"price\":75.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_4Amount": "3"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 675,
+"currencyValue": 675,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":675,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "675"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_100_290":
+{
+"priceInUSD": 99.99,
+"items":
+{
+"chipAmount": 7800000,
+"lpAmount": 5000,
+"myVipAmount": 8000
+},
+"bundleAssetToUse": 3,
+
+
+
+
+"promo": false,
+"originalChipAmount": 2000000,
+"extraValuePercentage": 290,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 2000000,
+"currencyValue": 7800000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 1,
+"currencyValue": 1,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":1,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":100.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "1"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 972,
+"currencyValue": 972,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":972,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "972"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_150_295":
+{
+"priceInUSD": 149.99,
+"items":
+{
+"chipAmount": 12913237,
+"lpAmount": 7500,
+"myVipAmount": 12000
+},
+"bundleAssetToUse": 3,
+
+
+
+
+"promo": false,
+"originalChipAmount": 3269174,
+"extraValuePercentage": 295,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 3269174,
+"currencyValue": 12913237,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 1,
+"currencyValue": 1,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":1,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":150.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "1"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 1512,
+"currencyValue": 1512,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":1512,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "1512"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_200_300":
+{
+"priceInUSD": 199.99,
+"items":
+{
+"chipAmount": 19000000,
+"lpAmount": 10000,
+"myVipAmount": 16000
+},
+"bundleAssetToUse": 4,
+
+
+
+
+"promo": false,
+"originalChipAmount": 4750000,
+"extraValuePercentage": 300,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 4750000,
+"currencyValue": 19000000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 2,
+"currencyValue": 2,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":2,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":200.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "2"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 2079,
+"currencyValue": 2079,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":2079,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "2079"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_300_305":
+{
+"priceInUSD": 299.99,
+"items":
+{
+"chipAmount": 33412500,
+"lpAmount": 15000,
+"myVipAmount": 24000
+},
+"bundleAssetToUse": 4,
+
+
+
+
+"promo": false,
+"originalChipAmount": 8250000,
+"extraValuePercentage": 305,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 8250000,
+"currencyValue": 33412500,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 3,
+"currencyValue": 3,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":3,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":300.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "3"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 3348,
+"currencyValue": 3348,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":3348,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "3348"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_400_310":
+{
+"priceInUSD": 399.99,
+"items":
+{
+"chipAmount": 53300000,
+"lpAmount": 20000,
+"myVipAmount": 32000
+},
+"bundleAssetToUse": 5,
+
+
+
+
+"promo": false,
+"originalChipAmount": 13000000,
+"extraValuePercentage": 310,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 13000000,
+"currencyValue": 53300000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 4,
+"currencyValue": 4,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":4,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":400.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "4"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 4590,
+"currencyValue": 4590,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":4590,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "4590"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_500_310":
+{
+"priceInUSD": 499.99,
+"items":
+{
+"chipAmount": 66625000,
+"lpAmount": 25000,
+"myVipAmount": 40000
+},
+"bundleAssetToUse": 5,
+
+
+
+
+"promo": false,
+"originalChipAmount": 16250000,
+"extraValuePercentage": 310,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 16250000,
+"currencyValue": 66625000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 5,
+"currencyValue": 5,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":5,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":500.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "5"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 5738,
+"currencyValue": 5738,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":5738,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "5738"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_800_335":
+{
+"priceInUSD": 799.99,
+"items":
+{
+"chipAmount": 113100000,
+"lpAmount": 40000,
+"myVipAmount": 64000
+},
+"bundleAssetToUse": 6,
+
+
+
+
+"promo": false,
+"originalChipAmount": 26000000,
+"extraValuePercentage": 335,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 26000000,
+"currencyValue": 113100000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 8,
+"currencyValue": 8,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":8,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":800.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "8"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 9180,
+"currencyValue": 9180,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":9180,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "9180"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+},
+"LW_1000_335":
+{
+"priceInUSD": 999.99,
+"items":
+{
+"chipAmount": 141375000,
+"lpAmount": 50000,
+"myVipAmount": 80000
+},
+"bundleAssetToUse": 6,
+
+
+
+
+"promo": false,
+"originalChipAmount": 32500000,
+"extraValuePercentage": 335,
+"coinsChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1741249036"
+},
+"lpChequeAssetData":
+{
+"chequeAssetName": "CollectPopUp",
+"chequeAssetVersion": "1742380844"
+},
+
+
+
+
+
+"saveAsLastPurchase": true,
+"welcomeOffer": false,
+"currencies":
+[
+{
+"isPrimary": true,
+"currencyName": "Chips",
+"originalValue": 32500000,
+"currencyValue": 141375000,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Chip_250x250.png"
+},
+{
+"isPrimary": false,
+"currencyName": "5-Star Sticker Pack (Min 1 of *****)",
+"originalValue": 10,
+"currencyValue": 10,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_Gold_250x250.png",
+"itemProperties":
+{
+"itemKey": "AlbumPack",
+"itemValue": "{\"amount\":10,\"source\":\"loyalty_website\",\"packId\":\"pack100\",\"price\":1000.00}"
+},
+"clientProperties":
+{
+"AlbumPackRarity_5Amount": "10"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+},
+{
+"isPrimary": false,
+"currencyName": "Super Spins",
+"originalValue": 11475,
+"currencyValue": 11475,
+"imageUrlSm": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_24x24.png",
+"imageUrlMd": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_100x100.png",
+"imageUrlLg": "https://assets.pssapi.com/myvip_mgm_currencies/MGM_SuperSpins_250x250.png",
+"itemProperties":
+{
+"itemKey": "PpSpins",
+"itemValue": "{\"cntSuperSpins\":11475,\"source\":\"loyalty_website\",\"eventType\":\"ppSpins\",\"cntSpins\":0}"
+},
+"clientProperties":
+{
+"MpSuperSpinsAmount": "11475"
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+}
+]
+}
+}
+}
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
