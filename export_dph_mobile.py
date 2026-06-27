@@ -4,12 +4,12 @@ import streamlit as st
 
 # Configure web interface to display well on both Desktop & Mobile devices
 st.set_page_config(
-    page_title="JSON Converter - ALBUM",
+    page_title="JSON Converter - DPH",
     page_icon="⚙️",
     layout="centered"
 )
 
-st.title("⚙️ JSON Converter - ALBUM")
+st.title("⚙️ JSON Converter - DPH")
 
 # Add Test mode checkbox
 test_mode = st.checkbox("Test mode", help="When enabled, will search for 'STG ALBUM' header instead of 'PROD ALBUM' and use column 11 as default")
